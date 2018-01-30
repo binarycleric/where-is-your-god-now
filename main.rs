@@ -1,3 +1,3 @@
-fn() {
-println!("Where is your God now?");
+fn main() {
+    println!("Seriously, that crab is dangerous.");
 }
