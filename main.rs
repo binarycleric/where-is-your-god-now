@@ -1,1 +1,3 @@
-09a17ff4-0576-11e8-8994-5cf37087d6b7
+fn() {
+println!("Where is your God now?");
+}
